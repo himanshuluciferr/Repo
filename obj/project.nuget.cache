@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5Zn8ZGvOOLUM6ERfhSYFHDSeucT3zzFZwA/mGnf5EbvSi28HTqysW0asMrSYpGc/m50zeuzlSi0SuFydcJtkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HIMANSHU\\source\\repos\\WallpapeRAPI\\WallpapeRAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HIMANSHU\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
